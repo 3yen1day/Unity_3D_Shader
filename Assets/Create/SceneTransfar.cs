@@ -16,16 +16,16 @@ public class SceneTransfar : MonoBehaviour
     {
 		if (Input.GetKeyDown(KeyCode.RightArrow))
 		{
-			if (SceneManager.GetActiveScene().name.Equals("TextMesh")) SceneManager.LoadScene("KougakuMeisai");
+			if (SceneManager.GetActiveScene().name.Equals("SampleScene")) SceneManager.LoadScene("KougakuMeisai");
 			else if (SceneManager.GetActiveScene().name.Equals("KougakuMeisai")) SceneManager.LoadScene("Hisyakai");
 			else if (SceneManager.GetActiveScene().name.Equals("Hisyakai")) SceneManager.LoadScene("Kairal");
-			else if (SceneManager.GetActiveScene().name.Equals("Kairal")) SceneManager.LoadScene("TextMesh");
+			else if (SceneManager.GetActiveScene().name.Equals("Kairal")) SceneManager.LoadScene("SampleScene");
 		}else if (Input.GetKeyDown(KeyCode.LeftArrow))
 		{
-			if (SceneManager.GetActiveScene().name.Equals("TextMesh")) SceneManager.LoadScene("Kairal");
+			if (SceneManager.GetActiveScene().name.Equals("SampleScene")) SceneManager.LoadScene("Kairal");
 			else if (SceneManager.GetActiveScene().name.Equals("Kairal")) SceneManager.LoadScene("Hisyakai");
 			else if (SceneManager.GetActiveScene().name.Equals("Hisyakai")) SceneManager.LoadScene("KougakuMeisai");
-			else if (SceneManager.GetActiveScene().name.Equals("KougakuMeisai")) SceneManager.LoadScene("TextMesh");
+			else if (SceneManager.GetActiveScene().name.Equals("KougakuMeisai")) SceneManager.LoadScene("SampleScene");
 		}
 	}
 }

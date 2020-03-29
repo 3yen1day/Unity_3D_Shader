@@ -6,6 +6,7 @@ public class RotateCamera : MonoBehaviour
 {
 	private Transform tr;
 	Camera_Move_Rotate c;
+	private bool off;
 
 	void Start()
 	{

@@ -6,15 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 48736b35879055a49ab51708788ae1f9
+  - enabled: 1
+    path: Assets/Scenes/KougakuMeisai.unity
+    guid: e0ab47e5919b2e94bacd2e7f10d274cd
+  - enabled: 1
     path: Assets/Scenes/Hisyakai.unity
     guid: 1e62de99a6a935f4b83fe74750a6aeb8
   - enabled: 1
     path: Assets/Scenes/Kairal.unity
     guid: 2bb7b55f2122dab4f9e9b04c01eb541d
-  - enabled: 1
-    path: Assets/Scenes/KougakuMeisai.unity
-    guid: e0ab47e5919b2e94bacd2e7f10d274cd
-  - enabled: 1
-    path: Assets/Scenes/TextMesh.unity
-    guid: c29ff00a58a06b641bf7dcfb2113db30
   m_configObjects: {}

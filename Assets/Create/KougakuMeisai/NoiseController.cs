@@ -5,14 +5,14 @@ using UnityEngine.UI;
 
 public class NoiseController : MonoBehaviour
 {
-    float NoiseInterval = Random.Range(5.0f, 10.0f);
+    float NoiseInterval;
     float IntervalTime;
 
-    void Start()
+    void Awake()
     {
         //インターバル設定
         NoiseInterval = Random.Range(1.0f, 3.0f);
-    }
+	}
 
     IEnumerator GeneratePulseNoise()
     {

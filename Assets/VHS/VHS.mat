@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: VHS
+  m_Shader: {fileID: 4800000, guid: aa57f66028d2c1f40a899a653b805eee, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Amount: 0.0009
+    - _Amount2: -0.000000069938224
+    - _BleedDelta: 0.004
+    - _BleedTaps: 8
+    - _BlockHeight: 2
+    - _BlockWidth: 2
+    - _FringeDelta: 0.00125
+    - _Height: 308
+    - _NoiseY: 0.9677582
+    - _RGBNoise: 0
+    - _SamplingDistance: 0.1
+    - _Saturation: 3
+    - _ScanLineSpeed: 100
+    - _ScanLineTail: 0.5
+    - _Scanline: 0.125
+    - _SinNoiseOffset: 1
+    - _SinNoiseScale: 1
+    - _SinNoiseWidth: 1
+    - _Size: 27
+    - _Width: 547
+    - _src: 0.5
+    m_Colors:
+    - _Offset: {r: 0, g: 0, b: 0, a: 0}

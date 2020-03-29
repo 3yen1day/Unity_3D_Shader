@@ -40,7 +40,7 @@
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #pragma shader_feature _ Dissolve_ON
+            #pragma multi_compile  _ Dissolve_ON
 
             #include "UnityCG.cginc"
 
@@ -91,7 +91,7 @@
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #pragma shader_feature _ Dissolve_ON
+            #pragma multi_compile _ Dissolve_ON
 
             #include "UnityCG.cginc"
 
