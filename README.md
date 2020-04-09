@@ -1,4 +1,9 @@
 ## Shaderいろいろ
+
+## VHSシェーダ
+![](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F378758%2F7d6c5762-3b94-dabb-f2b1-7a4eed405178.gif?ixlib=rb-1.2.2&auto=format&gif-q=60&q=75&s=218600e7cf8a48fe733584dadba747e6)
+[Qiita](https://qiita.com/3yen/items/c549ff26848dbb906635)
+
 ## Death Strandingのカイラル通信風シェーダ
 
 ![](https://qiita-user-contents.imgix.net/https%3A%2F%2Fqiita-image-store.s3.ap-northeast-1.amazonaws.com%2F0%2F378758%2F3b0d4cb5-01a9-27a3-78ad-8bc515c114cb.gif?ixlib=rb-1.2.2&auto=compress%2Cformat&gif-q=60&s=ea7e295cd8022ab2f8638f7b3dc9644d)
